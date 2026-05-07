@@ -1,0 +1,30 @@
+{
+  "rghdjwdt60gmailcom": {
+    "username": "rghdjwdt60gmailcom",
+    "password": "RrRr3072008",
+    "student_type": "علمي",
+    "telegram_user_id": "6387046562",
+    "telegram_username": null,
+    "telegram_first_name": "رغد",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_6.jpg",
+    "session_id": "34d48627-f817-4126-a021-5e9c8c3d6d96",
+    "created_at": "2026-05-07T17:46:01.126574",
+    "verified": true,
+    "last_login": "2026-05-07T17:48:20.569990",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "literary_studies",
+      "biology",
+      "physics_mechanic",
+      "linguistic_studies",
+      "chemistry",
+      "physics_electric",
+      "it",
+      "statistics",
+      "english",
+      "math"
+    ],
+    "server_num": 9
+  }
+}
