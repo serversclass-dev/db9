@@ -26,5 +26,24 @@
       "math"
     ],
     "server_num": 9
+  },
+  "s16112683": {
+    "username": "s16112683",
+    "password": "SAMAR1122*f",
+    "student_type": "علمي",
+    "telegram_user_id": "6665118255",
+    "telegram_username": "Samar_f09",
+    "telegram_first_name": "𝑺𝒂𝒎𝒂𝒓",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_63.jpg",
+    "session_id": "e49108cf-e093-4021-abd0-b9aba82143a7",
+    "created_at": "2026-05-11T22:04:22.456251",
+    "verified": true,
+    "last_login": "2026-05-11T22:04:27.135662",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "it"
+    ],
+    "server_num": 9
   }
 }
