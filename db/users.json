@@ -47,5 +47,23 @@
       "english"
     ],
     "server_num": 9
+  },
+  "shosho": {
+    "username": "shosho",
+    "password": "Sha123456789",
+    "student_type": "علمي",
+    "telegram_user_id": "6024435819",
+    "telegram_username": null,
+    "telegram_first_name": "Shahid🤍.",
+    "profile_photo_url": null,
+    "session_id": "d6f4f07f-163d-4db5-af1e-eaa20ee8d052",
+    "created_at": "2026-06-01T10:50:18.318401",
+    "verified": true,
+    "last_login": "2026-06-01T10:50:23.549695",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 9
   }
 }
